@@ -21,4 +21,4 @@ npx react-native init ProjectName --template https://github.com/eidolex/react-na
 
 ## Extra Packages (If needed)
 
-1. Multi Language [react-i18next](https://react.i18next.com/getting-started)
+1. [react-i18next](https://react.i18next.com/getting-started) (For Multi Language)

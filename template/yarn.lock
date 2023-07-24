@@ -1872,6 +1872,11 @@
     "@tanstack/query-core" "4.32.0"
     "use-sync-external-store" "^1.2.0"
 
+"@total-typescript/ts-reset@^0.4.2":
+  "integrity" "sha512-vqd7ZUDSrXFVT1n8b2kc3LnklncDQFPvR58yUS1kEP23/nHPAO9l1lMjUfnPrXYYk4Hj54rrLKMW5ipwk7k09A=="
+  "resolved" "https://registry.npmjs.org/@total-typescript/ts-reset/-/ts-reset-0.4.2.tgz"
+  "version" "0.4.2"
+
 "@tsconfig/react-native@^3.0.0":
   "integrity" "sha512-F7IoHEqf741lut4Z2K+IkWQRvXAhBiZMeY5L7BysG7Z2Z3MlIyFR+AagD8jQ/CqC1vowGnRwfLjeuwIpaeoJxA=="
   "resolved" "https://registry.npmjs.org/@tsconfig/react-native/-/react-native-3.0.2.tgz"

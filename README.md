@@ -22,3 +22,4 @@ npx react-native init ProjectName --template https://github.com/eidolex/react-na
 ## Extra Packages (If needed)
 
 1. [react-i18next](https://react.i18next.com/getting-started) (For Multi Language)
+2. [AsyncStorage](https://react-native-async-storage.github.io/async-storage/docs/install/)

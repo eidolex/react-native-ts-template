@@ -17,9 +17,9 @@ npx react-native init ProjectName --template https://github.com/eidolex/react-na
 1. [React Navigation](https://reactnavigation.org/docs/getting-started)
 2. [TanStack Query](https://tanstack.com/query/v4/docs/react/overview)
 3. [Axios](https://axios-http.com/docs/intro)
-4. [ErrorBoundary](https://react-native-error-boundary.js.org)
+4. [AsyncStorage](https://react-native-async-storage.github.io/async-storage/docs/install/)
+5. [ErrorBoundary](https://react-native-error-boundary.js.org)
 
 ## Extra Packages (If needed)
 
 1. [react-i18next](https://react.i18next.com/getting-started) (For Multi Language)
-2. [AsyncStorage](https://react-native-async-storage.github.io/async-storage/docs/install/)

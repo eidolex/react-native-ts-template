@@ -18,7 +18,7 @@ backendClient.interceptors.request.use(config => {
 backendClient.interceptors.response.use(
   response => response,
   error => {
-    if (error instanceof AxiosError && error.response?.status == 401) {
+    if (error instanceof AxiosError && error.response?.status === 401) {
       const e = new Error('AuthenticationError');
       throw e;
     }

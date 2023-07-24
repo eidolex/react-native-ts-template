@@ -24,3 +24,5 @@ npx react-native init ProjectName --template https://github.com/eidolex/react-na
 
 1. [react-i18next](https://react.i18next.com/getting-started) (For Multi Language)
 2. [react-hook-form](https://react-hook-form.com/get-started) (For form input validation and more)
+3. [react-native-vector-icons](https://www.npmjs.com/package/react-native-vector-icons#installation) (For icon)
+4. [react-native-svg](https://www.npmjs.com/package/react-native-svg#installation) (For SVG)

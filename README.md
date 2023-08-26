@@ -26,3 +26,4 @@ npx react-native init ProjectName --template https://github.com/eidolex/react-na
 2. [react-hook-form](https://react-hook-form.com/get-started) (For form input validation and more)
 3. [react-native-vector-icons](https://www.npmjs.com/package/react-native-vector-icons#installation) (For icon)
 4. [react-native-svg](https://www.npmjs.com/package/react-native-svg#installation) (For SVG)
+5. [code-push](https://github.com/microsoft/react-native-code-push) (For ota update)
